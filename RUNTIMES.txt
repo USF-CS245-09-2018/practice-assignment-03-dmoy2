@@ -1,0 +1,3 @@
+The iterative function has a run time of O(n) because it will iterate through the for loop n times according to the length of the array.
+
+The recursive function has a run time of O(n) as well because the function is being called recursively n times before reaching the base case.
